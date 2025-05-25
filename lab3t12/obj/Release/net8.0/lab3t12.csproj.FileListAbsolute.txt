@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab3\lab3t12\bin\Release\net8.0\lab3t12.exe
+C:\Users\vinil\source\repos\lab3\lab3t12\bin\Release\net8.0\lab3t12.deps.json
+C:\Users\vinil\source\repos\lab3\lab3t12\bin\Release\net8.0\lab3t12.runtimeconfig.json
+C:\Users\vinil\source\repos\lab3\lab3t12\bin\Release\net8.0\lab3t12.dll
+C:\Users\vinil\source\repos\lab3\lab3t12\bin\Release\net8.0\lab3t12.pdb
+C:\Users\vinil\source\repos\lab3\lab3t12\obj\Release\net8.0\lab3t12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab3\lab3t12\obj\Release\net8.0\lab3t12.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab3\lab3t12\obj\Release\net8.0\lab3t12.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab3\lab3t12\obj\Release\net8.0\lab3t12.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab3\lab3t12\obj\Release\net8.0\lab3t12.dll
+C:\Users\vinil\source\repos\lab3\lab3t12\obj\Release\net8.0\refint\lab3t12.dll
+C:\Users\vinil\source\repos\lab3\lab3t12\obj\Release\net8.0\lab3t12.pdb
+C:\Users\vinil\source\repos\lab3\lab3t12\obj\Release\net8.0\lab3t12.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab3\lab3t12\obj\Release\net8.0\ref\lab3t12.dll
