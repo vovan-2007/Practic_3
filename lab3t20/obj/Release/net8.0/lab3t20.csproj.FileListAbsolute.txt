@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab3\lab3t20\bin\Release\net8.0\lab3t20.exe
+C:\Users\vinil\source\repos\lab3\lab3t20\bin\Release\net8.0\lab3t20.deps.json
+C:\Users\vinil\source\repos\lab3\lab3t20\bin\Release\net8.0\lab3t20.runtimeconfig.json
+C:\Users\vinil\source\repos\lab3\lab3t20\bin\Release\net8.0\lab3t20.dll
+C:\Users\vinil\source\repos\lab3\lab3t20\bin\Release\net8.0\lab3t20.pdb
+C:\Users\vinil\source\repos\lab3\lab3t20\obj\Release\net8.0\lab3t20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab3\lab3t20\obj\Release\net8.0\lab3t20.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab3\lab3t20\obj\Release\net8.0\lab3t20.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab3\lab3t20\obj\Release\net8.0\lab3t20.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab3\lab3t20\obj\Release\net8.0\lab3t20.dll
+C:\Users\vinil\source\repos\lab3\lab3t20\obj\Release\net8.0\refint\lab3t20.dll
+C:\Users\vinil\source\repos\lab3\lab3t20\obj\Release\net8.0\lab3t20.pdb
+C:\Users\vinil\source\repos\lab3\lab3t20\obj\Release\net8.0\lab3t20.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab3\lab3t20\obj\Release\net8.0\ref\lab3t20.dll
